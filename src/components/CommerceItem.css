@@ -1,0 +1,20 @@
+.commerce-item{
+    width: 300px;
+    height: 600px;
+    border: 2px solid black;
+    display: grid;
+    justify-content: space-evenly;
+    margin: 10px;
+    background-color: #b7ffd5;
+    
+}
+
+.commerce-item__images{
+    overflow: hidden;
+
+}
+.img{
+    height: 100%;
+    width: 100%;
+    
+}

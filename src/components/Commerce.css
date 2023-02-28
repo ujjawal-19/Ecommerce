@@ -1,0 +1,7 @@
+.ecommerce{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    grid-template-rows: repeat(8 , 1fr);
+    grid-column-gap: 5rem;
+}
+
